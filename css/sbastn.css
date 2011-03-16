@@ -1,0 +1,32 @@
+.title {
+    font-size:xx-large;
+    background-color: #4FB048;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: x-large;
+    color: #4FB048;
+    text-align: center;
+    font-weight: bold;
+}
+
+.small-print {
+    font-size: small;
+    text-align:right;
+}
+.box {
+    text-align: center;
+    background-color: #F9F2BB;
+}
+
+.space {
+    padding-top: 3em;
+}
+
+h1 {
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
