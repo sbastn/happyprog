@@ -1,0 +1,61 @@
+body {
+    color:#4C4648;
+}
+
+h1 { 
+    font-family: 'Amaranth', arial, serif; 
+    font-size:2em;
+    color:#4C4648;
+}
+
+h2 {
+    padding-top:1em;
+}
+
+a {
+    background-color:#F0EF26;
+    text-decoration: none;
+}
+
+.small {
+    font-size:small;
+}
+
+.img-title {
+    margin-top:80px;
+}
+
+.bigtitle {
+    font-size:3em;
+    font-family: 'Amaranth', arial, serif;
+    font-weight:bold;
+    padding-bottom: 1em;
+    padding-top:1em;
+    text-align:center;
+    color:#E72956;
+}
+
+.space {
+    padding-top: 3em;
+}
+
+.list-of-things {
+    padding:1em;
+}
+
+.intro {
+    background:#F3F1F4 url(../images/grains-20.png);
+}
+
+.features {
+    padding-top:1em;
+    border-top: thick double lightgray;
+    background-color:#F3F1F4;
+}
+
+.footer {
+    padding-top:1em;
+    border-top: thick double lightgray;
+    background:#F3F1F4 url(../images/grains-20.png);
+}
+
